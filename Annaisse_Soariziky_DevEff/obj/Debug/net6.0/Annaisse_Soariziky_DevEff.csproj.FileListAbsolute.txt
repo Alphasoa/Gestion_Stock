@@ -1,0 +1,14 @@
+C:\Users\soari\source\repos\Annaisse_Soariziky_DevEff\Annaisse_Soariziky_DevEff\bin\Debug\net6.0\Annaisse_Soariziky_DevEff.exe
+C:\Users\soari\source\repos\Annaisse_Soariziky_DevEff\Annaisse_Soariziky_DevEff\bin\Debug\net6.0\Annaisse_Soariziky_DevEff.deps.json
+C:\Users\soari\source\repos\Annaisse_Soariziky_DevEff\Annaisse_Soariziky_DevEff\bin\Debug\net6.0\Annaisse_Soariziky_DevEff.runtimeconfig.json
+C:\Users\soari\source\repos\Annaisse_Soariziky_DevEff\Annaisse_Soariziky_DevEff\bin\Debug\net6.0\Annaisse_Soariziky_DevEff.dll
+C:\Users\soari\source\repos\Annaisse_Soariziky_DevEff\Annaisse_Soariziky_DevEff\bin\Debug\net6.0\Annaisse_Soariziky_DevEff.pdb
+C:\Users\soari\source\repos\Annaisse_Soariziky_DevEff\Annaisse_Soariziky_DevEff\obj\Debug\net6.0\Annaisse_Soariziky_DevEff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soari\source\repos\Annaisse_Soariziky_DevEff\Annaisse_Soariziky_DevEff\obj\Debug\net6.0\Annaisse_Soariziky_DevEff.AssemblyInfoInputs.cache
+C:\Users\soari\source\repos\Annaisse_Soariziky_DevEff\Annaisse_Soariziky_DevEff\obj\Debug\net6.0\Annaisse_Soariziky_DevEff.AssemblyInfo.cs
+C:\Users\soari\source\repos\Annaisse_Soariziky_DevEff\Annaisse_Soariziky_DevEff\obj\Debug\net6.0\Annaisse_Soariziky_DevEff.csproj.CoreCompileInputs.cache
+C:\Users\soari\source\repos\Annaisse_Soariziky_DevEff\Annaisse_Soariziky_DevEff\obj\Debug\net6.0\Annaisse_Soariziky_DevEff.dll
+C:\Users\soari\source\repos\Annaisse_Soariziky_DevEff\Annaisse_Soariziky_DevEff\obj\Debug\net6.0\refint\Annaisse_Soariziky_DevEff.dll
+C:\Users\soari\source\repos\Annaisse_Soariziky_DevEff\Annaisse_Soariziky_DevEff\obj\Debug\net6.0\Annaisse_Soariziky_DevEff.pdb
+C:\Users\soari\source\repos\Annaisse_Soariziky_DevEff\Annaisse_Soariziky_DevEff\obj\Debug\net6.0\Annaisse_Soariziky_DevEff.genruntimeconfig.cache
+C:\Users\soari\source\repos\Annaisse_Soariziky_DevEff\Annaisse_Soariziky_DevEff\obj\Debug\net6.0\ref\Annaisse_Soariziky_DevEff.dll
